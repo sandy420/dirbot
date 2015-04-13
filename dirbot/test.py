@@ -3,4 +3,6 @@
 __author__ = 'Sanddy Heng'
 
 import os
-#1
+
+for i in range(5):
+	print i
